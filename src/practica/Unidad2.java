@@ -1,6 +1,5 @@
 package practica;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Unidad2 {
